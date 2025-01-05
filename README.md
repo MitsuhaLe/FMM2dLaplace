@@ -15,7 +15,7 @@
 ## 注意事项
 
 fmm算法调用的是[fmmlib2d](https://github.com/zgimbutas/fmmlib2d)，对应“matlab”文件夹。
-<font color=red>**使用main_interior_laplace以及运行文件夹“FMM”中的测试是需要将文件夹“matlab”加入到MATLAB路径**</font>。
+**使用main_interior_laplace以及运行文件夹“FMM”中的测试是需要将文件夹“matlab”加入到MATLAB路径**。
 奇异数值积分部分参考了 [martinss/Nystrom/](https://amath.colorado.edu/faculty/martinss/Nystrom/) 中的代码。
 
 ## 使用方法
